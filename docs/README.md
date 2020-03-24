@@ -1,3 +1,3 @@
 ## 导读
 
-本小站使用docsify搭建，目的是更好的管理仓库文档
+本小站使用 [docsify](https://docsify.js.org/#/) 搭建，更好的管理仓库文档
